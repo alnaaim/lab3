@@ -31,6 +31,8 @@ public class AddressBook {
 		temp.addBuddy(x2); // adding buddy 2
 		temp.removeBuddy(x1);
 		System.out.println("Hello " + temp.getB(0).getName() + "!");
+		System.out.println("Hello " + temp.getB(0).getName() + "!");
+		System.out.println("Hello " + temp.getB(0).getName() + "!");
 	}
 
 }
